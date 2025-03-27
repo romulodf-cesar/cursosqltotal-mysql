@@ -1,0 +1,12 @@
+[{"id":1, "nome":"Rodrigo", "telefone":"61987789878", "email":"rodrigo@aluno.senai.br", "senha":"123"},
+ {"id":2, "nome":"Ana Silva", "telefone":"6199991234", "email":"ana.silva@email.com", "senha":"senha123"},
+ {"id":3, "nome":"Bruno Oliveira", "telefone":"6198885678", "email":"bruno.oliveira@email.com", "senha":"senha456"},
+ {"id":4, "nome":"Carla Rodrigues", "telefone":"6197779012", "email":"carla.rodrigues@email.com", "senha":"senha789"},
+ {"id":5, "nome":"Daniel Pereira", "telefone":"6196663456", "email":"daniel.pereira@email.com", "senha":"senha101"},
+ {"id":6, "nome":"Elisa Souza", "telefone":"6195557890", "email":"elisa.souza@email.com", "senha":"senha112"},
+ {"id":7, "nome":"Fabio Costa", "telefone":"6194441234", "email":"fabio.costa@email.com", "senha":"senha131"},
+ {"id":8, "nome":"Gabriela Santos", "telefone":"6193335678", "email":"gabriela.santos@email.com", "senha":"senha141"},
+ {"id":9, "nome":"Hugo Almeida", "telefone":"6192229012", "email":"hugo.almeida@email.com", "senha":"senha151"},
+ {"id":10, "nome":"Isabela Rocha", "telefone":"6191113456", "email":"isabela.rocha@email.com", "senha":"senha161"},
+ {"id":11, "nome":"Jo\u00e3o Martins", "telefone":"6198767890", "email":"joao.martins@email.com", "senha":"senha171"},
+ {"id":12, "nome":"joazinho", "telefone":"6199999999", "email":"joao@uol.br", "senha":"123"}]
