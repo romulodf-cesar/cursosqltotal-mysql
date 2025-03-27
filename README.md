@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Meu nome é Professor Rômulo C. Silvestre</p>
+<p align="left">Projeto BarberSoft</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre o Projeto</h2>
 
 ###
 
-<p align="left">✨ Desenvolvedor Python<br>📚  Cientista de Dados<br>🎯  Engenheiro de Inteligência Artificial</p>
+<p align="left">✨Cadastro de Clientes<br>📚  Cadastro de Serviços<br>🎯  Funcionários e Agendamento</p>
 
 ###
 
